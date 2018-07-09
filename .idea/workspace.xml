@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb8e9ee8-fda7-4abd-b469-1566671d6e13" name="Default" comment="second push">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/addons/p5.dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/addons/p5.dom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/addons/p5.sound.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/addons/p5.sound.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/empty-example/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/empty-example/sketch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/p5.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/p5.global-mode.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/p5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/p5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p5/p5.pre-min.js" />
+    <list default="true" id="fb8e9ee8-fda7-4abd-b469-1566671d6e13" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -200,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531138724705</updated>
-      <workItem from="1531138726692" duration="731000" />
+      <workItem from="1531138726692" duration="1150000" />
     </task>
     <task id="LOCAL-00001" summary="first push">
       <created>1531141842304</created>
@@ -213,7 +203,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="731000" />
+    <option name="totallyTimeSpent" value="1150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
