@@ -13,6 +13,7 @@ function draw() {
 	text("Happy UN", 200, 200);
 	fill('pink');
 	ellipse(50, 50, 50,100);
+	triangle(90,70, 80, 60 ,100,150);
 
 
 }
